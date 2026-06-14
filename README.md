@@ -39,7 +39,7 @@ Logic4l
 <p align="center">
 
 <div align="center">
-          <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js" alt="mongoDB" /></a>
+          <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,cpp" alt="mongoDB" /></a>
           <a href="#"><img src="https://skillicons.dev/icons?i=linux,vim,git,github,vscode" /></a>
 </div>
 
