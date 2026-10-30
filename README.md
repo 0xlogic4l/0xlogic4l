@@ -6,7 +6,7 @@
   <h3 align="center">Linux Administrator</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Bug%20Bounty-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Linux%20Administration-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Goal-Penetration%20Tester-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux">
   <br>
