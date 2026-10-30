@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=~+I'm+Nedal++~+!" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
-  <h3 align="center">Bug Hunter | Aspiring Pentester | Cybersecurity Learner</h3>
+  <h3 align="center">Linux Administrator</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Bug%20Bounty-red?style=for-the-badge">
@@ -23,12 +23,8 @@
 ```bash
 > whoami
 Logic4l
-
-> cat about.txt
-- Learning Web Application Security
-- Focused on Bug Bounty Hunting
-- Studying Linux, Networking, and Web Basics
-- Practicing on real labs (CTFs & vulnerable apps)
+- Junior Linux System Administrator
+- Studying Linux, Networking
 ```
 
 
@@ -46,14 +42,8 @@ Logic4l
 
 ## Learning Path
 ```cpp
-✔ Linux Basics
-✔ Web Basics (HTML, CSS, ⏳Js)
-⏳ Networking Fundamentals (Basics)
-⏳ OWASP Top 10
-⏳ Bug Bounty Platforms (HackerOne / Bugcrowd)
-⏳ Web Exploitation (XSS, SQLi, IDOR)
-⏳ Recon & Information Gathering Advanced
-⏳ Reporting Vulnerabilities
+✔ Linux System Administration
+⏳ Networking 
 ```
 
 <h2 align="center">GitHub Stats  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
