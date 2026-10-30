@@ -43,7 +43,9 @@ Logic4l
 ## Learning Path
 ```cpp
 ✔ Linux System Administration
-⏳ Networking 
+⏳ Networking
+⏳ Security+
+⏳ eJPT
 ```
 
 <h2 align="center">GitHub Stats  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
